@@ -1,2 +1,0 @@
-# ReactExportMultipleFunctions
-Created with CodeSandbox
